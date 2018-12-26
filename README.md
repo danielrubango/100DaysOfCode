@@ -22,7 +22,7 @@ Pour y arriver, j'ai choisi de me lancer dans ce challenge intéressante, 1 heur
 - Publier mon Blog le *1er Février 2019*
 - Plus de procrastination
 - Apprendre à guider mon développement sur base des tests (TDD)
-- Apprendre à mettre en place du CI/CD à partir de Zéro 
+- Apprendre à mettre en place du CI/CD à partir de Zéro
 - Postuler à deux jobs au moins par jour à partir de janvier 2019
 - Finir les 100 jours de challenge en tant que **Senior FullStack Web Developer**
 
@@ -39,8 +39,8 @@ Pour y arriver, j'ai choisi de me lancer dans ce challenge intéressante, 1 heur
 
 My journal entries will be an open and honest look at my daily coding progress. Some days will show a screenshot of what I coded, while other days will be my thoughts and reflections of how my progress is going. The main purpose of this is for me to code everyday for 100 days straight.
 
-[My Plan & Tools](https://github.com/danielrubango/100daysofCode)
+[My Plan & Tools](https://github.com/danielrubango/100DaysOfCode/blob/master/README.md#1-objectifs)
 
-[Round 1](https://github.com/danielrubango/100daysofCode)
+[Round 1](https://github.com/danielrubango/100DaysOfCode/blob/master/R1.md)
 
-## START DATE: 6 DEC 18
+## START DATE: 26 DEC 18
